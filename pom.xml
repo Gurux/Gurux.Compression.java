@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.gurux</groupId>
   <artifactId>gurux.compression</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.2</version>
   <packaging>jar</packaging>
   <name>gurux.compression</name>
   <url>https://www.gurux.fi</url>
@@ -30,7 +30,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <maven.compiler.release>8</maven.compiler.release>
-    <scm.tag>HEAD</scm.tag>
+    <scm.tag>v1.0.2</scm.tag>
   </properties>
   <dependencies>
     <dependency>
